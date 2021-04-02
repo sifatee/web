@@ -1,0 +1,121 @@
+.font-mine{
+	font-size:22px;
+}
+.font-mine2{
+	font-size:20px;
+}
+.err-msg{
+	color:red;
+	font-size:18px;
+	font-family:cambria;
+}
+#header
+{
+height:30px;
+background-color:violet;
+position: fixed;
+width:100%;
+top:0;
+left:0;
+color:white;
+text-align:center;
+}
+
+.leftheader
+{
+height:1000px;
+background-color:violet;
+position: fixed;
+width:12%;
+top:20;
+left:0;
+color:white;
+text-align:left;
+padding:8px;
+}
+
+#centerheader
+{
+	height:75px;
+	background-color:deeppink;
+	position:fixed;
+	width:35%;
+	top:60;
+	left:412;
+	color:white;
+	text-align:center;
+}
+#centerheaderwelcomepage
+{
+	height:120px;
+	background-color:Crimson;
+	position:fixed;
+	width:35%;
+	top:60;
+	left:412;
+	color:black;
+	text-align:center;
+}
+
+#logindiv
+{
+border:5px solid MediumVioletRed;
+margin:auto;
+width:22%;
+border-radius:10px;
+margin-top:15%;
+padding:20px;
+
+}
+
+#orderdiv
+{
+border:5px solid MediumVioletRed;
+background-color:AntiqueWhite;
+margin:auto;
+height:200px;
+width:40%;
+top:70;
+left:500;
+border-radius:10px;
+margin-top:15%;
+padding:15px;
+
+}
+#footer{
+height:30px;
+background-color:violet;
+position:fixed;
+bottom:0;
+left:0;
+width:100%;
+color:white;
+text-align:center;
+}
+.btn-mine{
+background-color:SlateBlue;
+font-size:27px;
+color:white;
+border:none;
+width:100%;
+}
+.btn-mine:hover{
+background-color:green;
+}
+.btn-mine:active{
+background-color:black;
+}
+.btn-order{
+background-color:tomato;
+font-size:24px;
+color:white;
+border:none;
+width:100%;
+
+}
+.btn-order:hover{
+background-color:red;
+}
+.btn-order:active{
+background-color:black;
+}
